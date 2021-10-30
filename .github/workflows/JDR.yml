@@ -28,4 +28,4 @@ jobs:
           JDR_USERNAME: ${{ secrets.MY_USERNAME }}
           JDR_PASSWORD: ${{ secrets.MY_PASSWORD }}
           JDR_GRADE: ${{ secrets.MY_GRADE }}
-        run: python main.py --user $JDR_USERNAME --pwd $JDR_PASSWORD --grade $JDR_GRAD
+        run: python main.py --user jindr20 --pwd prjs234567 
